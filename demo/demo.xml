@@ -1,0 +1,23 @@
+<odoo>
+
+
+          <record id="baju1" model="register.baju">
+            <field name="nama">Baju 1</field>
+            <field name="ukuran">M</field>
+            <field name="tipe">Blouse</field>
+            <field name="warna">Kuning</field>
+            <field name="deskripsi">
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend sed sem ut vehicula. Suspendisse vitae laoreet mi. Vestibulum finibus enim eu nunc consequat, vel sagittis urna mattis. In vitae metus sem. Cras fermentum urna in dignissim gravida. Nulla dignissim nisi at neque venenatis lacinia eleifend a ipsum. Integer gravida dolor gravida euismod aliquet. Sed luctus dolor quis ornare cursus. Suspendisse semper efficitur erat, ut vulputate nulla mattis at. In condimentum maximus mi consequat ullamcorper. Mauris semper odio felis, sit amet pharetra lectus euismod non. In blandit justo tellus, id fringilla elit varius quis. Nullam in tempor quam, eu imperdiet nibh.
+            </field>
+          </record>
+          <record id="baju2" model="register.baju">
+            <field name="nama">Baju 2</field>
+            <field name="ukuran">XL</field>
+            <field name="tipe">Tees</field>
+            <field name="warna">Merah</field>
+            <field name="deskripsi">
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend sed sem ut vehicula. Suspendisse vitae laoreet mi. Vestibulum finibus enim eu nunc consequat, vel sagittis urna mattis. In vitae metus sem. Cras fermentum urna in dignissim gravida. Nulla dignissim nisi at neque venenatis lacinia eleifend a ipsum. Integer gravida dolor gravida euismod aliquet. Sed luctus dolor quis ornare cursus. Suspendisse semper efficitur erat, ut vulputate nulla mattis at. In condimentum maximus mi consequat ullamcorper. Mauris semper odio felis, sit amet pharetra lectus euismod non. In blandit justo tellus, id fringilla elit varius quis. Nullam in tempor quam, eu imperdiet nibh.
+            </field>
+          </record>
+
+</odoo>

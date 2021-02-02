@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_register_baju,access_register_baju,model_register_baju,,1,1,0,0

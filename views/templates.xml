@@ -1,0 +1,10 @@
+<odoo>
+
+  <template id="index">
+    <title>Baju</title>
+    <t t-foreach="listbaju" t-as="baju">
+      <p><t t-esc="baju"/></p>
+    </t>
+  </template>
+  
+</odoo>
